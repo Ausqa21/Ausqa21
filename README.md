@@ -4,10 +4,10 @@
 
 ## I'm a music lover, multi-sport fanatic and a developer
 
-- 🌱 I’m currently learning backend development with Java
+- 🌱 I’m currently learning Haskell
 - 👯 I’m looking to collaborate with other developers and share knowledge
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I hate bugs
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I'm fun!
 
 ### Connect with me:
 
