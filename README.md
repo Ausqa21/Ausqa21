@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ausqa21?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ausqa21)
 
-## I'm a music lover, multi-sport fanatic and a developer
+## I love music, sports and telling computers what to do
 
 - 🌱 I’m currently learning Haskell
 - 👯 I’m looking to collaborate with other developers and share knowledge
